@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "エリカ",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-12T13:26:17.755935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エリカ",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/01_エリカ_花譜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エリカ",
+      "artist": "KOKIA",
+      "has_synced": false,
+      "path": "select/02_エリカ_KOKIA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エリカ",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/03_エリカ_花譜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エリカ (Guiano Remix)",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/04_エリカ_(Guiano_Remix)_花譜.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エリカ (Guiano Remix)",
+      "artist": "Kaf",
+      "has_synced": false,
+      "path": "select/05_エリカ_(Guiano_Remix)_Kaf.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エリカ",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/06_エリカ_Sou.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エリカ / Erika",
+      "artist": "KOKIA",
+      "has_synced": false,
+      "path": "select/07_エリカ___Erika_KOKIA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エリカ",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_エリカ_花譜.txt"
+    }
+  ]
+}
